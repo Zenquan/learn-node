@@ -1,0 +1,16 @@
+{
+  "name": "koaRouter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -harmony index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "harmony": "0.0.1",
+    "koa-router": "^7.4.0"
+  }
+}
