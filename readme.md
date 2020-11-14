@@ -1,9 +1,15 @@
 # node复习
 
+![](https://i.loli.net/2020/11/14/YibCRBIprcVaJ35.png)
+
 ## node原生
 
+### zlib
+### dns
+### http
 ### path
 - path.join([...paths])
+### cluster
 
 
 ## document
