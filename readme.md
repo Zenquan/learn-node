@@ -18,6 +18,7 @@
 
 参考:
 
+- [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide)
 - [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
 - [Koa2进阶学习笔记](https://chenshenhai.github.io/koa2-note/)
 - [Koa.js 设计模式-学习笔记](https://github.com/chenshenhai/koajs-design-note)
