@@ -23,6 +23,6 @@
 - [Koa2进阶学习笔记](https://chenshenhai.github.io/koa2-note/)
 - [Koa.js 设计模式-学习笔记](https://github.com/chenshenhai/koajs-design-note)
 - [Node.js 调试指南](https://github.com/nswbmw/node-in-debugging)
-- [/deep-into-node](https://yjhjstz.gitbooks.io/deep-into-node/)
+- [deep-into-node](https://yjhjstz.gitbooks.io/deep-into-node/)
 - [jackblog-api-koa](https://github.com/jackhutu/jackblog-api-koa)
 - [fiora](https://github.com/yinxin630/fiora)
